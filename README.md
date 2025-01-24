@@ -1,4 +1,5 @@
 🚀 Lógica de Programação para Data Science
+
 Este repositório contém materiais e práticas relacionadas à lógica de programação aplicada à ciência de dados. Aqui, você encontrará pastas organizadas com conteúdos essenciais para quem está começando ou deseja reforçar fundamentos nessa área.
 
 📂 Estrutura do Repositório
